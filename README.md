@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hajaramusa-yusuf
-- 👀 I’m interested in coding
+- 👋 Hi, I’m Hajara
+- A Computer Science Major
 - 🌱 In the art of learning how to code.
 
 <!---
