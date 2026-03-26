@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**Hajaramusa-yusuf/Hajaramusa-yusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm Hajara Musa-Yusuf, a Computer Science student passionate about building useful digital products. I enjoy turning ideas into real-world solutions using code.
 
-Here are some ideas to get you started:
+💡 Currently learning and improving my frontend development skills  
+🌱 Interested in AI and Machine learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Interests
+Outside of coding, I enjoy learning new things, art, travelling, and exploring.
+
+## 💻 Technical Skills
+
+- **Languages:** HTML, CSS, JavaScript, Python  
+- **Frameworks & Tools:** React, Git  
+- **Currently Learning:** Advanced JavaScript, Python, AI basics  
+
+## 📫 Contact Me
+
+- Email: hajaramusayusuf05@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/hajara-musa-yusuf-803455241  
+- GitHub: https://github.com/Hajaramusa-yusuf
